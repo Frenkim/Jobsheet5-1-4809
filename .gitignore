@@ -1,0 +1,7 @@
+# 
+bin/
+obj/
+
+# Pengaturan lokal Visual Studio Code
+
+.vscode/
